@@ -1,0 +1,1050 @@
+{
+  "repo_source": "/home/user/system-prompts-and-models-of-ai-tools",
+  "repo_fingerprint": "50b1893b9d3c8bdf6dbb77e660419e7177409728",
+  "file_count": 101,
+  "docs_count": 328,
+  "bytes_written": 5854472,
+  "timestamps": {
+    "start": "2025-11-15T09:46:00.309969",
+    "end": "2025-11-15T09:46:18.854736"
+  },
+  "generator_version": "1.0.0",
+  "files": [
+    {
+      "path": "repo_book_gen.py",
+      "size": 52262,
+      "mime_type": "text/x-python",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "LICENSE.md",
+      "size": 35149,
+      "mime_type": "text/markdown",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "README.md",
+      "size": 5766,
+      "mime_type": "text/markdown",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Claude Code/claude-code-tools.json",
+      "size": 48961,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Claude Code/claude-code-system-prompt.txt",
+      "size": 13019,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cluely/Enterprise Prompt.txt",
+      "size": 21306,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cluely/Default Prompt.txt",
+      "size": 4534,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Leap.new/tools.json",
+      "size": 16553,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Leap.new/Prompts.txt",
+      "size": 52456,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Augment Code/claude-4-sonnet-tools.json",
+      "size": 28992,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Augment Code/gpt-5-tools.json",
+      "size": 19181,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Augment Code/claude-4-sonnet-agent-prompts.txt",
+      "size": 10836,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Augment Code/gpt-5-agent-prompts.txt",
+      "size": 15035,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "dia/Prompt.txt",
+      "size": 17194,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Same.dev/Tools.json",
+      "size": 22357,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Same.dev/Prompt.txt",
+      "size": 34890,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Devin AI/DeepWiki Prompt.txt",
+      "size": 5505,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Devin AI/Prompt.txt",
+      "size": 34714,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Orchids.app/Decision-making prompt.txt",
+      "size": 6820,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Orchids.app/System Prompt.txt",
+      "size": 58779,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Anthropic/Claude Code 2.0.txt",
+      "size": 57324,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Anthropic/Sonnet 4.5 Prompt.txt",
+      "size": 43200,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": ".github/FUNDING.yml",
+      "size": 131,
+      "mime_type": "application/yaml",
+      "is_binary": true,
+      "is_large": false
+    },
+    {
+      "path": "Junie/Prompt.txt",
+      "size": 6184,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "v0 Prompts and Tools/Tools.json",
+      "size": 28966,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "v0 Prompts and Tools/Prompt.txt",
+      "size": 43864,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Amp/claude-4-sonnet.yaml",
+      "size": 66230,
+      "mime_type": "application/yaml",
+      "is_binary": true,
+      "is_large": false
+    },
+    {
+      "path": "Amp/gpt-5.yaml",
+      "size": 62239,
+      "mime_type": "application/yaml",
+      "is_binary": true,
+      "is_large": false
+    },
+    {
+      "path": "Amp/view-thread-yaml.png",
+      "size": 37173,
+      "mime_type": "image/png",
+      "is_binary": true,
+      "is_large": false
+    },
+    {
+      "path": "Amp/README.md",
+      "size": 614,
+      "mime_type": "text/markdown",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Xcode/ExplainAction.txt",
+      "size": 245,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Xcode/PlaygroundAction.txt",
+      "size": 414,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Xcode/DocumentAction.txt",
+      "size": 374,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Xcode/MessageAction.txt",
+      "size": 235,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Xcode/PreviewAction.txt",
+      "size": 1938,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Xcode/System.txt",
+      "size": 4009,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "NotionAi/tools.json",
+      "size": 34889,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "NotionAi/Prompt.txt",
+      "size": 32081,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "assets/Latitude_logo.png",
+      "size": 7814,
+      "mime_type": "image/png",
+      "is_binary": true,
+      "is_large": false
+    },
+    {
+      "path": "Qoder/Quest Design.txt",
+      "size": 26165,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Qoder/prompt.txt",
+      "size": 18620,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Qoder/Quest Action.txt",
+      "size": 12357,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Poke/Poke_p4.txt",
+      "size": 5890,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Poke/Poke agent.txt",
+      "size": 12159,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Poke/Poke_p3.txt",
+      "size": 5493,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Poke/Poke_p1.txt",
+      "size": 10153,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Poke/Poke_p6.txt",
+      "size": 1783,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Poke/Poke_p2.txt",
+      "size": 2440,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Poke/Poke_p5.txt",
+      "size": 1158,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Lovable/Agent Tools.json",
+      "size": 27944,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Lovable/Agent Prompt.txt",
+      "size": 20301,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Gemini/AI Studio Vibe-Coder.txt",
+      "size": 62552,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Traycer AI/plan_mode_tools.json",
+      "size": 16752,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Traycer AI/plan_mode_prompts",
+      "size": 6143,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Traycer AI/phase_mode_prompts.txt",
+      "size": 3842,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Traycer AI/phase_mode_tools.json",
+      "size": 18618,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Trae/Chat Prompt.txt",
+      "size": 8443,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Trae/Builder Tools.json",
+      "size": 8264,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Trae/Builder Prompt.txt",
+      "size": 18569,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Z.ai Code/prompt.txt",
+      "size": 9592,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Kiro/Mode_Clasifier_Prompt.txt",
+      "size": 2883,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Kiro/Vibe_Prompt.txt",
+      "size": 14151,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Kiro/Spec_Prompt.txt",
+      "size": 31947,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Replit/Tools.json",
+      "size": 25003,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Replit/Prompt.txt",
+      "size": 8110,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "CodeBuddy Prompts/Chat Prompt.txt",
+      "size": 1558,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "CodeBuddy Prompts/Craft Prompt.txt",
+      "size": 40617,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Manus Agent Tools & Prompt/tools.json",
+      "size": 18501,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Manus Agent Tools & Prompt/Modules.txt",
+      "size": 12224,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Manus Agent Tools & Prompt/Prompt.txt",
+      "size": 10209,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Manus Agent Tools & Prompt/Agent loop.txt",
+      "size": 2147,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Emergent/Tools.json",
+      "size": 7880,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Emergent/Prompt.txt",
+      "size": 37424,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Perplexity/Prompt.txt",
+      "size": 9585,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Open Source prompts/RooCode/Prompt.txt",
+      "size": 43961,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Open Source prompts/Gemini CLI/google-gemini-cli-system-prompt.txt",
+      "size": 18976,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Open Source prompts/Lumo/Prompt.txt",
+      "size": 8253,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Open Source prompts/Bolt/Prompt.txt",
+      "size": 21945,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Open Source prompts/Codex CLI/Prompt.txt",
+      "size": 4848,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Open Source prompts/Codex CLI/openai-codex-cli-system-prompt-20250820.txt",
+      "size": 23864,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Open Source prompts/Cline/Prompt.txt",
+      "size": 47083,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Warp.dev/Prompt.txt",
+      "size": 14595,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cursor Prompts/Chat Prompt.txt",
+      "size": 12569,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cursor Prompts/Agent CLI Prompt 2025-08-07.txt",
+      "size": 14067,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cursor Prompts/Agent Prompt 2025-09-03.txt",
+      "size": 19028,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cursor Prompts/Agent Prompt v1.0.txt",
+      "size": 9023,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cursor Prompts/Agent Tools v1.0.json",
+      "size": 23545,
+      "mime_type": "application/json",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cursor Prompts/Agent Prompt 2.0.txt",
+      "size": 38844,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Cursor Prompts/Agent Prompt v1.2.txt",
+      "size": 32197,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Windsurf/Prompt Wave 11.txt",
+      "size": 11699,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Windsurf/Tools Wave 11.txt",
+      "size": 32843,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/claude-sonnet-4.txt",
+      "size": 9910,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/gemini-2.5-pro.txt",
+      "size": 9909,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/chat-titles.txt",
+      "size": 765,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/gpt-5-mini.txt",
+      "size": 25257,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/gpt-4o.txt",
+      "size": 7876,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/gpt-5.txt",
+      "size": 25579,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/Prompt.txt",
+      "size": 21032,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/gpt-4.1.txt",
+      "size": 11082,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "VSCode Agent/nes-tab-completion.txt",
+      "size": 8910,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    },
+    {
+      "path": "Comet Assistant/System Prompt.txt",
+      "size": 20890,
+      "mime_type": "text/plain",
+      "is_binary": false,
+      "is_large": false
+    }
+  ],
+  "checksums": {
+    "repo_book_gen.py_docs.md": "2e82a53d0f4bfe89c62d9edeed5355c0c4287b8c4ef9f3b6bb6f20937ff72b46",
+    "repo_book_gen.py_kw.md": "23b4b16ed9f9d48e52c19572dba5bcccc5c759ccab55bb846af7ab075bfcfedd",
+    "LICENSE.md_docs.md": "009b1425000d68691790d43ed053078e8d5e3af275f3e13f545de479fa138390",
+    "LICENSE.md_kw.md": "ff1866d4fb93752a8ec72cbc7300265fd68cdb5ff7b3364b75d792040fd46924",
+    "README.md_docs.md": "b7da4e34a8e5307da87ed3b89fd95c0103771ca6dba7e069beaf93118bb778b9",
+    "README.md_kw.md": "65e6cee9fe96c3804c2157d72e0f6ff5c8a6cab7d48079ed29cebc3eca33c24c",
+    "Claude Code/claude-code-tools.json_docs.md": "2112f1a175f2285251cb3a65097e62731124ddeb99517734483e7d8ee3ae2856",
+    "Claude Code/claude-code-tools.json_kw.md": "96bca315668cf583583964e9cfad52c2df07b4a6e31a0380e457df3a8f094339",
+    "Claude Code/claude-code-system-prompt.txt_docs.md": "99c4429513671c674318cc443f34a9baa910819dc4b096c6dec0885a7618892e",
+    "Claude Code/claude-code-system-prompt.txt_kw.md": "60fda67ed665351b8950aff5c52f1230f5da33b43ac7f709c63443aaeaa8a778",
+    "Cluely/Enterprise Prompt.txt_docs.md": "7ebeb5c93c4123a75d4397fca45e39547392355105ea77cd48daa1ad64a0b642",
+    "Cluely/Enterprise Prompt.txt_kw.md": "8cbb49dabad845a028d0eecddfad896d5dfeb35c6721db89bb7e6d872215fd95",
+    "Cluely/Default Prompt.txt_docs.md": "17f352e2471852b1678c30fe41b5fd7c5730111a45934362a0758943edb42f2d",
+    "Cluely/Default Prompt.txt_kw.md": "2ec1393c78cd6a587e835f7bb4bf09bc1263c25d2800d5078fefacb816af2f7e",
+    "Leap.new/tools.json_docs.md": "3f14338f5c0b3b29e912e5cae9d6e392f279fc08630a6212c8ef1a073ee4eff2",
+    "Leap.new/tools.json_kw.md": "1c6a9ef6dc338fade4bb725f60021a533f35bf0f228a83b9077a047bb20dc2bd",
+    "Leap.new/Prompts.txt_docs.md": "e2614c5baa4b2066a044151c87fd12afa2a6335c9a10b9690fa368bcde3fdcf3",
+    "Leap.new/Prompts.txt_kw.md": "7f6b7ff258ffa50cd6a1fe81fc7218236ed2e23f95f86d186996dfd3393485c4",
+    "Augment Code/claude-4-sonnet-tools.json_docs.md": "04ba300b2eff5c691af54ff7e6b5ab5982d433b386ee6335ec4526d9fefaf810",
+    "Augment Code/claude-4-sonnet-tools.json_kw.md": "293575df737b79c7902284e119433113c422c6883d9de711e3feeb1814676486",
+    "Augment Code/gpt-5-tools.json_docs.md": "bbadb90fd7b49c91ecbaa3009ec8e57a055a5bf102ab3042006952069316717d",
+    "Augment Code/gpt-5-tools.json_kw.md": "a15115b4cc2b3461128524642e3904a61e4f18bd4a9ead814595476b259eab3e",
+    "Augment Code/claude-4-sonnet-agent-prompts.txt_docs.md": "1d15919d77045a558a61d7ed7e34c9d8a9d40d5c21b5fad68846b7fee4a8e7ec",
+    "Augment Code/claude-4-sonnet-agent-prompts.txt_kw.md": "d2121912b97a3a933f353ec2294320f742ee9fffcdc59679a5b034da5a0878da",
+    "Augment Code/gpt-5-agent-prompts.txt_docs.md": "1d7f6fde141b72b77b31dc33e31ac157cd63f0f8174ff4e493d9fc0a86a4c231",
+    "Augment Code/gpt-5-agent-prompts.txt_kw.md": "c577f2214417b965c7c004fe12014622fef5c3997c21aacb262120e013749957",
+    "dia/Prompt.txt_docs.md": "4513960cb31fd4cb3d097306b7589b7a90eff1ad308390fe04ab650856bff9eb",
+    "dia/Prompt.txt_kw.md": "2e686973460dccf1a1cc2a8415521ffbf77548c737830a9582327ab51a0dcf57",
+    "Same.dev/Tools.json_docs.md": "71e78e709f8d340def5328b47c9e11e02beffb6023748724a0342350ec655455",
+    "Same.dev/Tools.json_kw.md": "6b2693b7656bd5afc9491d2d3587e16a5273f0921f586fcf3858243a58fe3778",
+    "Same.dev/Prompt.txt_docs.md": "9fbd881a17d5842497dcf291b3e08ca5539ee5e0818f973da66f91393f7fde01",
+    "Same.dev/Prompt.txt_kw.md": "fa58918ab9093b1610a3d12faf604a0d1fa790d5b1d5d03da636a1cfb3b06441",
+    "Devin AI/DeepWiki Prompt.txt_docs.md": "35a37790efda132cc11d9ddfd977ae5deb851d119f4826e7b3881e66503b88a1",
+    "Devin AI/DeepWiki Prompt.txt_kw.md": "42d3a805901e4e3df58ce1df1083a311ad6d53a98f2cbbaa64e6fecc193ee66c",
+    "Devin AI/Prompt.txt_docs.md": "716a4fdddc8705e671c1c062d8ef1722c87581c5998fd244c878d669208da394",
+    "Devin AI/Prompt.txt_kw.md": "fd6d9b3cb737923e96a2349ddbff68a6fea56e39b59b2e30d1403b8c0894588d",
+    "Orchids.app/Decision-making prompt.txt_docs.md": "19bc4d8d546275d08dede072b2bbbc8929cf973dd09591a9b5304de27a9a9fca",
+    "Orchids.app/Decision-making prompt.txt_kw.md": "1b5923641795e40dd203c5cf7b7bb701bcf9cca80b8b7d1d8ee7313ac9331bce",
+    "Orchids.app/System Prompt.txt_docs.md": "6c1cde6a91670be89db438f1665b48b9e72f5d3ca8159fbe3f9bab881da08d04",
+    "Orchids.app/System Prompt.txt_kw.md": "686d717ccff9cdb94fba1c2ceb93435e05f183deb3a0e24d5510365205a68f73",
+    "Anthropic/Claude Code 2.0.txt_docs.md": "d6e4d63108ba5f404d1604332451c113e74fe93252144e0fd74d47bcc43491bd",
+    "Anthropic/Claude Code 2.0.txt_kw.md": "5e26b2e20e1d1b6432eb755a1c0c29875d32aad26e05bee4bce2cd4aaba44fd2",
+    "Anthropic/Sonnet 4.5 Prompt.txt_docs.md": "be94c59274273473f60fdc7b2d934b4746a329c66bc6857d93514ce1235690ac",
+    "Anthropic/Sonnet 4.5 Prompt.txt_kw.md": "43e4eed2df9a430d17c0e93ba87acfcd45c92ae4e0cff15212df8b92cadaea4c",
+    ".github/FUNDING.yml_docs.md": "8b6a72257704710fe8f092e84fb25452de7ce542a3fcc99838cfea2557e46fee",
+    "Junie/Prompt.txt_docs.md": "39f9ef7245be2404b7fa0c1b3fb99478feeffaddc2e34757e93ce22bb3e94479",
+    "Junie/Prompt.txt_kw.md": "b980b5d1cb027d1a8796cf9485118953d46f6edf001ce3259915a28cdf3cacc2",
+    "v0 Prompts and Tools/Tools.json_docs.md": "a93e5fd8354b8b5995f5870cfa187162b5d91b5b430414aa4a05c8827e0986e6",
+    "v0 Prompts and Tools/Tools.json_kw.md": "018ae9579fe9e56c7604b362bad6e92a50deb474168b73a19c501d9751c47b7f",
+    "v0 Prompts and Tools/Prompt.txt_docs.md": "83b12cf3185a213e583669e59525c1d46716053d5c4b74aa033ce2d724b0c73b",
+    "v0 Prompts and Tools/Prompt.txt_kw.md": "b96183e391c4ff1d649359e97c79a7eff3f4098344c0df920fe9df8350122e55",
+    "Amp/claude-4-sonnet.yaml_docs.md": "d975a99d50f6d0cfbb3820f6956de86701f8d300a0be83fa736e840332278c75",
+    "Amp/gpt-5.yaml_docs.md": "ac4e09364e88c72ef67c501cc73bcd04e78eff10a89d4d5974b3f9a9d062363a",
+    "Amp/view-thread-yaml.png_docs.md": "6eb6b16b88849fa14b47284c4dd48d5380981043a031efc69f73aeaacdfd6468",
+    "Amp/README.md_docs.md": "5763b5bcd8bee5cf610db8a3b41b5dff313862188bcd67ce24d25b0cb8d2d4cc",
+    "Amp/README.md_kw.md": "bca0311d38ca1d2277011fe69218295a4eb35baff0dba0a0064b3a2aa45c7262",
+    "Xcode/ExplainAction.txt_docs.md": "9b4ff46b05600a3c9934167eca95ea6b57727fef6ad1dc106215f08b88e4ce69",
+    "Xcode/ExplainAction.txt_kw.md": "ce61df818b7c58500518ced6e78fd0f9bfe246033f8b8a9f8ce192d839a75872",
+    "Xcode/PlaygroundAction.txt_docs.md": "eae380def133ee60eb3b4aceba7d020c6494cd99b5b5d24784999d543857bf34",
+    "Xcode/PlaygroundAction.txt_kw.md": "b1525e26bf314909fcd7f2e235bbdec5771d75a7aeaa29ee77fa4ac78744a015",
+    "Xcode/DocumentAction.txt_docs.md": "cc6e3aeec8d863431ffb5298d50ee365064030d8bd7217b62d2bb19ce31f00ab",
+    "Xcode/DocumentAction.txt_kw.md": "c4548cac863c0443902c72e82549729e829a5ecfbfa8fa3d6e1360fc2c8ac59a",
+    "Xcode/MessageAction.txt_docs.md": "2e773ec7e5e5e5337d30799b92a9a8546f04665328ec6feef0d5a8675bdb2ef8",
+    "Xcode/MessageAction.txt_kw.md": "12c328815027b01955b1743fbaa3bcc9354af61e960552ce53cf7fa3cd83dd5d",
+    "Xcode/PreviewAction.txt_docs.md": "bbbfb908c3a9600bb2c403e04670e5259814612ffe3b1c0771f1083eb00c57d7",
+    "Xcode/PreviewAction.txt_kw.md": "1d56a1d42a42ad76d1415cab0d3ceb93a256359dfe0aef35da8571bdea736b29",
+    "Xcode/System.txt_docs.md": "8d8e9168e36bef513ad0cd06c328611ad55441a73a03cd30bde1cb232cd8248f",
+    "Xcode/System.txt_kw.md": "d81f0d7156755a4ce7b69d0422e5a8357ffdd813ce9772b3efcbf93a38215413",
+    "NotionAi/tools.json_docs.md": "e8894cf61496a3f3bce25a5350703e7d44fae3de6095baef74492fab47bfb5ac",
+    "NotionAi/tools.json_kw.md": "08c1181b6a20dcdc322e1e86d99044396ee4046cdac601fd7c04e98053d5d3d4",
+    "NotionAi/Prompt.txt_docs.md": "27b7369c8578e775461ec5278bd28d483a1fe03fe71ec5e21f0500f7a5d812c8",
+    "NotionAi/Prompt.txt_kw.md": "3c5d9fa5511b031a42d150063e383f8ed3670c2cacbea074e12bd0e10f2bfc55",
+    "assets/Latitude_logo.png_docs.md": "3f429b157212b4f0b9c0640c158ec519327726d32c8133fe24c912dd6ded6847",
+    "Qoder/Quest Design.txt_docs.md": "84dc23e0f2ad8ce3dd830f7258cab4e853fe5c24d0ac817729c7f0d06541dc2b",
+    "Qoder/Quest Design.txt_kw.md": "670125c8b508f41de96ca9d981e7ae62bf4c2d4c6bd63b242d35ecac51d8df0e",
+    "Qoder/prompt.txt_docs.md": "733f4a364f7735dd11e420ab114351eb99694e7882a7bf6caf9dac476f4b1661",
+    "Qoder/prompt.txt_kw.md": "8ff1e3e4e9db159aa7615e10e0124a5cae7892a88a2e83a770b1482a9caf1ed3",
+    "Qoder/Quest Action.txt_docs.md": "018f3c341777c78f2ca532ddfc9ec1062202d9e356cc9aacddf23b2781c3d01e",
+    "Qoder/Quest Action.txt_kw.md": "48a0c1127e2472953d148b80e564893264bbd26ae3aef88f3d13416003377166",
+    "Poke/Poke_p4.txt_docs.md": "8a8785d7d186372d9a9fd84f1842e7d993a2a7aa08969a52e9f97d963237d8d3",
+    "Poke/Poke_p4.txt_kw.md": "3aedb1e2ad7bcc9bdf5d48ea9c478635cdef0378279e2fa6f9c72c4562d063b8",
+    "Poke/Poke agent.txt_docs.md": "0fbfc8b3d8952feec6b186b13be18890c328c526c94999ae093750f5af365984",
+    "Poke/Poke agent.txt_kw.md": "e7c64c5c8ae47a32c390b8308f80c2b3c9b563455d0aac0ad43250546b099608",
+    "Poke/Poke_p3.txt_docs.md": "d262e8edeed46c48af537e2f2f4a74b55fcac34b752fd8b9c2eeec4fb9d4f384",
+    "Poke/Poke_p3.txt_kw.md": "b202cc91a28579a45bee997e7888091c77b777dffade055669dd5d762de0964d",
+    "Poke/Poke_p1.txt_docs.md": "3ec5aea3ed444ecf20615cd49ae1a733cf7f5acaf34707284ec87a2de0903d2e",
+    "Poke/Poke_p1.txt_kw.md": "d729d05fe546b0f22470990e30541f0424e310f0cf65c5a113acd2b857783485",
+    "Poke/Poke_p6.txt_docs.md": "74af5d118c88a730e6a6d12f7f8c2d95ca297e230e916557daeea7ed76fb96f8",
+    "Poke/Poke_p6.txt_kw.md": "38901bb52ea0c71bc34ae5d0d2a1eceaa3b4c869363688be10da8dcd6fb886be",
+    "Poke/Poke_p2.txt_docs.md": "0812589e4ba82592d1390a4a9e4451a2b65efa11f4ed3fb18ee47adad8c5a25c",
+    "Poke/Poke_p2.txt_kw.md": "ce5e2a3731e24e4a4400ac1e0e10f35bc6bb38e5d337ad594e2bd2ca8defd901",
+    "Poke/Poke_p5.txt_docs.md": "1d9e9ee60a68013cf972293f398b063f7b2bfc7482ae43fbdc5f605c35f472f1",
+    "Poke/Poke_p5.txt_kw.md": "c5600059ec58fd5118d56ca325b1ebd6dbcee670f2979589504cfd97f176fbc8",
+    "Lovable/Agent Tools.json_docs.md": "0bb7dcf7547d0a57a5a1b04d0430b31cf79bee85d262e992ec98f49db6c78d1d",
+    "Lovable/Agent Tools.json_kw.md": "2f7b4ee1c1e9d8278c1e2da6b7232fd2e7d1b6fe21b56942510dac43137f6bcb",
+    "Lovable/Agent Prompt.txt_docs.md": "91557df516d070e0221ea732bf250f7e3687e35de6ff43d2725c9e78f17c648c",
+    "Lovable/Agent Prompt.txt_kw.md": "4ecb0dae30f512254b19f94d7efda3bfb387f8ea2d206fa38bfb8e4e5792268d",
+    "Gemini/AI Studio Vibe-Coder.txt_docs.md": "e3488bd870ea6d42e61572b794bb2263f8099a0a50ecf5376e253fa7ef6b592a",
+    "Gemini/AI Studio Vibe-Coder.txt_kw.md": "e0ce25e1e122cf43f40a16a4b52cbfb052126e850d8d4381c5d3b53eec137bed",
+    "Traycer AI/plan_mode_tools.json_docs.md": "c80c796b7b598edeacb0db393593a6ca69d3ea024012064fdabdd78557f29ae1",
+    "Traycer AI/plan_mode_tools.json_kw.md": "f52ef3a87d55deb466092ddf3eae1d5977a51079129ffd2ff768f29bfcf0e168",
+    "Traycer AI/plan_mode_prompts_docs.md": "a27870db4ee729e85e485e4427b117244225b811747cb6a99e52f678c0d93040",
+    "Traycer AI/plan_mode_prompts_kw.md": "d4f0f2f4cd07105e918c827cc7f69fd69004977b6e7ed8827d172c6bce5841b8",
+    "Traycer AI/phase_mode_prompts.txt_docs.md": "1a0f9e4e334b7d6e1744ece6f6d2fbd7a656938df2b430180e6b5dacfca44b69",
+    "Traycer AI/phase_mode_prompts.txt_kw.md": "eed049a2aab297f9d00562857122c632cef50a13378228819d4124d678d6fe7f",
+    "Traycer AI/phase_mode_tools.json_docs.md": "c05f17a5288b4537812108e63681186049ab9ffe40042edba32a7527b2afa91b",
+    "Traycer AI/phase_mode_tools.json_kw.md": "88e169d4504eff2a8361d7107f98609307121647a78656f96d24e27070858eb8",
+    "Trae/Chat Prompt.txt_docs.md": "4d5d5440d5f13c05fc89ab53ed245bb81171c36dbc394b349600aeedd222fd15",
+    "Trae/Chat Prompt.txt_kw.md": "4df757ba59e721a6e980be66a8089e7abc47e5ac050da4354196137f18691336",
+    "Trae/Builder Tools.json_docs.md": "29a1e35431d75190fcde459b84b83d6be29ddc643728e56aa13c3b29be94970a",
+    "Trae/Builder Tools.json_kw.md": "e2d270376a8d400483dbacdb73aad57b55a54556463282cb79b832a8be2812b3",
+    "Trae/Builder Prompt.txt_docs.md": "84e7d1c05e5f858d842c64a1f1f818029abb2377194580d178b3b846786a2a2f",
+    "Trae/Builder Prompt.txt_kw.md": "d5b4c72003746f62d95f7f076e064c9c1e0701b0e6499e5824dc5d602df807e6",
+    "Z.ai Code/prompt.txt_docs.md": "5d5d1a97574e9b51095302fdd2f79e5fb9f4a764807c924e6a67bfe51a8612bc",
+    "Z.ai Code/prompt.txt_kw.md": "a453d9c1ba37104a822629ea5b37d6bb742201e62183468ac813eb65eac29be1",
+    "Kiro/Mode_Clasifier_Prompt.txt_docs.md": "27b43702c38764735436ced59da803eb8ea2dacb49acdbd81708de6329f247bf",
+    "Kiro/Mode_Clasifier_Prompt.txt_kw.md": "0d85cac1ef9eb5c322435cf9a82c174cbc506e6bcdcb303fba79a53a1d5c206c",
+    "Kiro/Vibe_Prompt.txt_docs.md": "30f1b28d3b33cdbf067b7b0cb492036b6f190c07a41aed1f48eb14d1fa82d068",
+    "Kiro/Vibe_Prompt.txt_kw.md": "d32bfe893c762b353d158fcdbafeaabeb7bd6e1aa57daf8c177e46a00d4193e3",
+    "Kiro/Spec_Prompt.txt_docs.md": "fca58a9a4c5e63519bd548f495bca10cf46be0398b17a8295bbd6d9925278539",
+    "Kiro/Spec_Prompt.txt_kw.md": "c46f16c3473ca90c21e25923f5b5069cb5b86c7f8d07d3bcd5b24ca96357cd9a",
+    "Replit/Tools.json_docs.md": "dfeed92405eee438129da7d9523669043000bc0c5b017c25ad133a697f69a001",
+    "Replit/Tools.json_kw.md": "f7503ac3bd38333dcff4e465f321444c8726f405ded49d256dd70c85575037a5",
+    "Replit/Prompt.txt_docs.md": "a2536fb3f699e207ad0b9990b8fff9d4e6ad0292551db1f489a090f74caa6089",
+    "Replit/Prompt.txt_kw.md": "bdcc5a4b06a2d5d1ed471f65345d270e043a396452f6e29b60528b09bdf388cc",
+    "CodeBuddy Prompts/Chat Prompt.txt_docs.md": "da37bec0fb1d5e46751dbc1120e8800e52170a93e1b5cf1c4d4eafb4016b0ae6",
+    "CodeBuddy Prompts/Chat Prompt.txt_kw.md": "a9201760260271d9c0f18d2575ab9f7297f8af0f00b293483389c05c0b384d06",
+    "CodeBuddy Prompts/Craft Prompt.txt_docs.md": "7d1bac3495cea3695feccada966371bb2bec27a385007060c3eb433fe09c82b8",
+    "CodeBuddy Prompts/Craft Prompt.txt_kw.md": "c8313b4c1cc1ea8aeda9dbe45d139a4b03537924d4218c338d73d967f268a42c",
+    "Manus Agent Tools & Prompt/tools.json_docs.md": "13ea8939e4e48153db13c8ca3817e513420417d2fa7abf6e8358afe1177b4a47",
+    "Manus Agent Tools & Prompt/tools.json_kw.md": "e73bb543f88fa0c34251b869e45fe82cf66062a72b6485bab8932a3784ee695d",
+    "Manus Agent Tools & Prompt/Modules.txt_docs.md": "8d377ac317736891e1af0479f26491d5284eb3cb92aefb1fd54a962da726c956",
+    "Manus Agent Tools & Prompt/Modules.txt_kw.md": "475fccc1559f9fa334c523c903cbf53446d3bd39b6f95849e5485e8b9c0e2635",
+    "Manus Agent Tools & Prompt/Prompt.txt_docs.md": "32ef76ac7946dd5a0e8b0a963dc6136bc84511db9864950e64b651c5795f2ca2",
+    "Manus Agent Tools & Prompt/Prompt.txt_kw.md": "8165de8b01f364bb15ae4f8162eeb0fb8ece52a13b2926e8b4800638a7e70347",
+    "Manus Agent Tools & Prompt/Agent loop.txt_docs.md": "ef37f4bfabbce9baae36596e2929a4f582379eadae9c4a2c8a2d48389ee5463d",
+    "Manus Agent Tools & Prompt/Agent loop.txt_kw.md": "27e5ba32d8f97f5cb59d80fffdea965aede6215bc19e2b7213ba38561a232a46",
+    "Emergent/Tools.json_docs.md": "deb7250af84168caaca34189178c4d5a7064a304e90c2cf44018292ba536ffd3",
+    "Emergent/Tools.json_kw.md": "0ff73ffa889eae058d56f963d9746d829aa342bda82bec1344ae8c211de635af",
+    "Emergent/Prompt.txt_docs.md": "51988c8062de1ae27c93283224377e6a613f565722dec24a5af2ac8f6ad4b62b",
+    "Emergent/Prompt.txt_kw.md": "70ac09ee978603708b225b35e33b0926891973c01c662ff7e63f8cff09392cb2",
+    "Perplexity/Prompt.txt_docs.md": "b527c3a5ce73a8f3cf689af66aa60755da22b472194013c0cab58c5061c7c42e",
+    "Perplexity/Prompt.txt_kw.md": "6519d247048f6ea2bf23cf5c8d6ea94b53ef4ede80338d19cbef5596b7773431",
+    "Open Source prompts/RooCode/Prompt.txt_docs.md": "cdba7fbe4a4024dab10072df4bc410db40c902cb0b4f107783a4e153f8f4c735",
+    "Open Source prompts/RooCode/Prompt.txt_kw.md": "b91ab997528c51da1c686cf98c0db398700c804436aa5c005c2a1b21d2a754c8",
+    "Open Source prompts/Gemini CLI/google-gemini-cli-system-prompt.txt_docs.md": "a8d2c44fd2a20636fccc3762974c10e86c05cb336affa1d64c5a2a643587a3fa",
+    "Open Source prompts/Gemini CLI/google-gemini-cli-system-prompt.txt_kw.md": "7956d70ff888807eab68829271efca6b35f791e38b297a26def604d9fe113280",
+    "Open Source prompts/Lumo/Prompt.txt_docs.md": "dac0fcd800e956c26c2042c9c5c04bbd68aef18743aefe29993b74a3921a9504",
+    "Open Source prompts/Lumo/Prompt.txt_kw.md": "1a6fa9c368184962216c5c0ffcf03c7cfe79d78a9eae9c49c3848b8850875d38",
+    "Open Source prompts/Bolt/Prompt.txt_docs.md": "1ec841528ad6b6a728047e6883f9956823b96500b5da23812cebae4140997a23",
+    "Open Source prompts/Bolt/Prompt.txt_kw.md": "669f54a7cba894fe87e472b846fecc821839fcd75540021e44166473aa348078",
+    "Open Source prompts/Codex CLI/Prompt.txt_docs.md": "ac5bcec1d779acb10b2df62cc99342403339493b9459d52cd7597c21d85f6e5e",
+    "Open Source prompts/Codex CLI/Prompt.txt_kw.md": "a8d54bb1e2849e92d550f272106ef4e98157fe441e32d80dc0afb376ba946105",
+    "Open Source prompts/Codex CLI/openai-codex-cli-system-prompt-20250820.txt_docs.md": "5f73d4d649e0d25ec599a99a86fe61ec26178c3b5348bbe33d69f6cb79fc2eb2",
+    "Open Source prompts/Codex CLI/openai-codex-cli-system-prompt-20250820.txt_kw.md": "2b162cf425f7b3176345b39d0aa2ac87b390ab6fcece072c1d1b37eeb05677e2",
+    "Open Source prompts/Cline/Prompt.txt_docs.md": "8efe78bf705d3d0fa211b15fef4669f9ea446b27bb786e39064b89186e64d58d",
+    "Open Source prompts/Cline/Prompt.txt_kw.md": "349f9a394816baba4d8f23a1288ed1f444abbf5573923d699a6ed3bcdc3fe755",
+    "Warp.dev/Prompt.txt_docs.md": "3ddc7d70b1225a9ce2c888cf0844067be04222a7cec41b6b5a467beb160e804a",
+    "Warp.dev/Prompt.txt_kw.md": "cab9d91529bdb4d47de2f3c4f450e50c1241f93d4082ed0d734dee24e1615a22",
+    "Cursor Prompts/Chat Prompt.txt_docs.md": "541a00fcb3adee39255150f364e10762950e1ee3446f4379ea421983aaff1a96",
+    "Cursor Prompts/Chat Prompt.txt_kw.md": "fa760d839fa7e9851925cbf76959c62335718546104f01a623d2e914d3ae3e71",
+    "Cursor Prompts/Agent CLI Prompt 2025-08-07.txt_docs.md": "a9edd70797ba696cc9d8f13664e8e8252f1bd64ef3e06912d6e096839a85297e",
+    "Cursor Prompts/Agent CLI Prompt 2025-08-07.txt_kw.md": "464d46eb08ed7a9bfc28bd7e4e299319a79085264b0a0471b2721ae63cfc8788",
+    "Cursor Prompts/Agent Prompt 2025-09-03.txt_docs.md": "7efdbc7fd004bee71d011944fb237f80faa36f321cdd5a5f36979758eb70bebb",
+    "Cursor Prompts/Agent Prompt 2025-09-03.txt_kw.md": "db7bf9a1624b1ad300ff626f80e469b51299f09fecb04f864f8688cad38c3fea",
+    "Cursor Prompts/Agent Prompt v1.0.txt_docs.md": "3f9b142f551cf7ab5d5fe2062751244553e96c7fb3281845105600ede8f8d65a",
+    "Cursor Prompts/Agent Prompt v1.0.txt_kw.md": "c041df7ded85fb2182c0385e67d6269bc9b34e1d25433ec5b6c6d17b0cc85232",
+    "Cursor Prompts/Agent Tools v1.0.json_docs.md": "f984dc5d4637490e25313ccd794e408e37b7c2e577455e08ed3797ed312a86a6",
+    "Cursor Prompts/Agent Tools v1.0.json_kw.md": "de6881417e650e3a871e50ebc8016d893bc7321693d9a008b197e8fe237e025c",
+    "Cursor Prompts/Agent Prompt 2.0.txt_docs.md": "1da9cbe894eb8e93e3fe46e470bf80aafa82049f9b1a0fb786065bacf0465511",
+    "Cursor Prompts/Agent Prompt 2.0.txt_kw.md": "4f87cd6f6766694ff760b9e7446b73090f713d0409b03ba8c726af888214d6c1",
+    "Cursor Prompts/Agent Prompt v1.2.txt_docs.md": "b482581a083baf3a815551333bf27c644eac6028874d3056326011668211dcd0",
+    "Cursor Prompts/Agent Prompt v1.2.txt_kw.md": "11feb86caa9ecfc051a3368811b2216340dcb83249c9c2ab7085c692a3585d2e",
+    "Windsurf/Prompt Wave 11.txt_docs.md": "371d2eda0fbece3391d26f1f123721081f191fa9af734d0132e16c355b8f3346",
+    "Windsurf/Prompt Wave 11.txt_kw.md": "a736fec8f655e3632acaad31c816479445b7133afdf6b4f039130a7aecc1a37f",
+    "Windsurf/Tools Wave 11.txt_docs.md": "1a01b2067695925ed79f7b767008d759ebd25613b5db46bd4abcc6746e2cfac3",
+    "Windsurf/Tools Wave 11.txt_kw.md": "a1371cf9a916e79692cf6dc661b8b7c8cb15947785998444d9acfcb46c18c887",
+    "VSCode Agent/claude-sonnet-4.txt_docs.md": "46910495cb25457c5bc25877dbfdbf27d5ba4a8e79ca539fe8112b66675a7cf3",
+    "VSCode Agent/claude-sonnet-4.txt_kw.md": "4363710d3e1335e6f5c85cdfd5a4e671ec510f9d48cf488032154907f38de885",
+    "VSCode Agent/gemini-2.5-pro.txt_docs.md": "aa193210768b8c1702f9155c38a18957aa4ef1d34112b4a356f1bb5c3b91c3e6",
+    "VSCode Agent/gemini-2.5-pro.txt_kw.md": "01d5a74756ed71de0ffcb96a859198d9856f4c9c4423779465b36a3f2de00fb7",
+    "VSCode Agent/chat-titles.txt_docs.md": "04766f38f490d5b6aaaa9cda61955602ddf7498a0982b90c8f7232835ab45457",
+    "VSCode Agent/chat-titles.txt_kw.md": "cfa1e37a801e92337176dfb1ee15a813e23337d0378be61a65cfe718c856e77b",
+    "VSCode Agent/gpt-5-mini.txt_docs.md": "e99984f47e36e3fd7b6e2e2d2f55da256fe5d1464fafa2dc8020b4113fa4db5a",
+    "VSCode Agent/gpt-5-mini.txt_kw.md": "114a710ca520d67120703122110498a44fc16513e69a243108ecc4d0f5ae1dfd",
+    "VSCode Agent/gpt-4o.txt_docs.md": "46a0782cf4d1f7c4c380d06198e95fd5af972bbc9223b72abf975c71d81839d5",
+    "VSCode Agent/gpt-4o.txt_kw.md": "618a4c2d2fe0db6dc252ec105694aaaad211f8f0ab407ad6a11eafeaef36a4e2",
+    "VSCode Agent/gpt-5.txt_docs.md": "5c969035630376e862b9c1f1f0c64fb94a87ba3aadce10f43f36ff5b77daa42c",
+    "VSCode Agent/gpt-5.txt_kw.md": "209f892f0bab175499da381e5d697c47d120c1bd7ca0e7dd6032ae8a8f838576",
+    "VSCode Agent/Prompt.txt_docs.md": "b4e439cd454557bbdbefc497bbff230d6469a6902e6c7e31097518b59702b890",
+    "VSCode Agent/Prompt.txt_kw.md": "24d485cf3df9a38b094ce8503e85e28358561429ff905e7d8037c26bd999c390",
+    "VSCode Agent/gpt-4.1.txt_docs.md": "f5bcc0d2cf9626082b87e914305316219a558d8cdea777b18edd161b1eae2640",
+    "VSCode Agent/gpt-4.1.txt_kw.md": "11d4f6bc54ce612ac15ca028cec1e727b7aaa15297fab6094af622c6976ddd67",
+    "VSCode Agent/nes-tab-completion.txt_docs.md": "95652afcf7f3a98b2730797fdb1d6661f39ce370a69d6a913a2364af080f63cc",
+    "VSCode Agent/nes-tab-completion.txt_kw.md": "60a1bfd83ac82c2124d373f87a0466e932fd08e2a6f860a85dba622379f8100f",
+    "Comet Assistant/System Prompt.txt_docs.md": "c9b10edaed4c7252f6bd8b05d5605690dab75b6acb6baf6ecfc1735403bc6015",
+    "Comet Assistant/System Prompt.txt_kw.md": "f8ffe097e4846991c0a7fe75228e496a1d7a0f120feb11baee6087ed74f1a757",
+    "index.md": "667010fc5ac9260a1004b3f36faf18b9739097d8822903c171d0cdcdcee01163",
+    "doc.md": "0d8d4b535091f04019063bc1070b0128bec0bcccab53ad0aeb8ff9d18ec5b091",
+    "sub.md": "920a0275688199853ef096bcdfa1ff99a03c57d6ddf77e7680fbe0f0350992a1",
+    ".github/index.md": "ad248d43adb81e00d71b3cc8d76a484387b16529c569d32d764e26ed1bef16ba",
+    ".github/doc.md": "c36fdd4034d48ed6469ce4efd165729355a64bed9ad867a15a9523794ae5cb76",
+    ".github/sub.md": "28eb7d84240366718d31290f98b4e9c7f72c5f9e47ecddea9b36f7299624fa61",
+    "Amp/index.md": "48d3166dcbce1f70519fc26957374e349eceaf2678133a91e1095c05df9040fe",
+    "Amp/doc.md": "aed79966e7d3a55b8dc98992b6ba35132574909428f07a3c0689e2e010d1ab9e",
+    "Amp/sub.md": "b740a5f14e8ea6a5e677788d7144dff2958b2737a63b08dd238c2dc8f641de84",
+    "Anthropic/index.md": "f636b41616eb93c58c660ce06de9db752acbc8c3c842e23f6705ca907203f542",
+    "Anthropic/doc.md": "9b2a9465fb05991554e45bc1098cfcd665a0bd9b1c9a2834d09270106b82a633",
+    "Anthropic/sub.md": "4892eca2ffa267cf78234b6b000a97270d9e38981195ca06aa3e179e18aeb69e",
+    "Augment Code/index.md": "98e57359056cbdd4897fda7ba36de310eac413ccccd8476e281380355258a0bd",
+    "Augment Code/doc.md": "2a61fcb720af4c368ecd176fa789047c07a416c4b22cc6569d14031d37c1e135",
+    "Augment Code/sub.md": "72774f14dbaeafba92775313b7901fda68b75e600cff5689e5bbfc798c444afd",
+    "Claude Code/index.md": "8450d9f5c456fbc8de14efa81829eaed6fb58b823ce16ad8893b5c7950044f76",
+    "Claude Code/doc.md": "9f037fe715450c56a0cae5002138bfd3bcf4e4efa6eff40622314e29cc9e9f71",
+    "Claude Code/sub.md": "ae1ca24dd8f338b0e21a130ca7beef20efe9ebe9a4c913397ac2bc68335fc917",
+    "Cluely/index.md": "a89267b6764644bfc269c0e1cbd995ba2da5c63a227511d8f48dc7d209e822a3",
+    "Cluely/doc.md": "d79a01afdb328252239998e6fe0439186019d9cf4515aa4d9cdba3effdc0893b",
+    "Cluely/sub.md": "63b38002601a952c33fe9a39332b0b00d2a7cfac90ee5088dec13343a505ddcb",
+    "CodeBuddy Prompts/index.md": "ad3fe80409097352e922fa317b6a61ade3ab7ab78ee4ba08032f4ba762e0e3f6",
+    "CodeBuddy Prompts/doc.md": "c5564151841734db0b6c6d03b772039c043d9b381563b81defcaf03c2712e565",
+    "CodeBuddy Prompts/sub.md": "d125c2777dd0433a756628be5476b91a7d818ab1fa8034ae9c63f12e8d9af43a",
+    "Comet Assistant/index.md": "2eae6549de4ba2365a8144fd1deb03e7a25f0a9c9c515dbaa5a3887315c4a710",
+    "Comet Assistant/doc.md": "44f0e6b9cb946a289088ed691b635ed75a601d30740649fa456bed42609b2a4a",
+    "Comet Assistant/sub.md": "dc89ef859688d0ad0936df01736702dcad49280cf8a651520aecb338a28fa859",
+    "Cursor Prompts/index.md": "5c61fa879929fd43155a12e6ad3d96eea08d5f71d494e16f4920367a3afc863d",
+    "Cursor Prompts/doc.md": "41e6b1d1a63909a097aee87082fcc5685befdb96ed1a787b8207396200bc7651",
+    "Cursor Prompts/sub.md": "991eb2cb289d08654563574b36a2a9fe12cfb97eb7e17ee61a66f4416b0dfbf0",
+    "Devin AI/index.md": "21e8a0086366767e356e779fcf81b06c27a5e80d3159e9937df4351f33193b68",
+    "Devin AI/doc.md": "2fd5f698e7340ed30173566e5f8f0d059b28e2b6971baa6eedea604aa2303250",
+    "Devin AI/sub.md": "e21261cedb87c0b1111127303a5efe74c85d7d165513d993430a8e1311541acf",
+    "Emergent/index.md": "ef01d1fa5d4b290c266ed324a38e2693aff263a658e9e57a27379f40eac43231",
+    "Emergent/doc.md": "cf0bcf3cf29f5f8833a14d3a0e1b7fba25279575e05892942312694b703b622e",
+    "Emergent/sub.md": "c69edd2e389c18952970086f880c6b9dd9c5b2105bd48b9cd9d5bd445c9b2a71",
+    "Gemini/index.md": "3c141c669b14c8109b60f813d9b593710c27a58e5ca6bb81ef6c3ed938f1f5c4",
+    "Gemini/doc.md": "ad85aa9e69a5c7f404a1f306db287c49697a02bf9d1eef157ea3ee0b7bbfc714",
+    "Gemini/sub.md": "ced256ab0b03246f867e13ff9661fcfc80ecc140d1c3914364f084ae58f4c07d",
+    "Junie/index.md": "78d49c726b87330256cd1de3c3db987acb817ebbf4671b78a94185576ad6de1a",
+    "Junie/doc.md": "e4e67876bf7114428f769144a6d5498fabf92759bbd41a0422f75cffec3c355b",
+    "Junie/sub.md": "4969b504a84d34db9d5b51d945c099192082f4275f5e0b37b2f94ec6f212444d",
+    "Kiro/index.md": "9226f9b6a59c30cdf4897c34a8c894f610234882dde5ac16656784ce4992de87",
+    "Kiro/doc.md": "7fb5660dcda80fe206ecad05e0c5267557e12b715eaedc4bba3fc3cc8a180748",
+    "Kiro/sub.md": "b8ac0770e2cb7b3d04fb6d1a0c6e22afdb34aa5114376213f0d4922d2af8bfc5",
+    "Leap.new/index.md": "ee73e164215421dda18ccf0a44bce945b184c62bf5b77d71bb6b3781d127fe16",
+    "Leap.new/doc.md": "a2294937afc1e4e306f51d745f467b4f5b1ab35a8d7b0243a9c193becd6932e4",
+    "Leap.new/sub.md": "2f5c95e06a10806624c72b8fae390002d9f6d7de451b4282adac3614c195a44f",
+    "Lovable/index.md": "67ba373c822f989ac969a453988dccea506693d48bfa35dc761203ae8ca88d7c",
+    "Lovable/doc.md": "bd5c89bd4eef528dd9b9cc0e6fc8c7af20a2be54bc4ef8e83b41338cd0dbb477",
+    "Lovable/sub.md": "44472913ff9ab5253f05220a65913a3baa66ccda7be682a2da981ded5e8476fb",
+    "Manus Agent Tools & Prompt/index.md": "956da057c27ff3c09b34433501951ad42456b3b0b3b2d908fa5da102d928ba91",
+    "Manus Agent Tools & Prompt/doc.md": "84c29db06e69f886eda25fab0ffbdcde4cc76958361717aa9e2791b82d185ae4",
+    "Manus Agent Tools & Prompt/sub.md": "b1fa0c2b112425fefc03a629b7d1c6fcdb7fe56a4e18597b242cbbb301318766",
+    "NotionAi/index.md": "ceef5d64021c72ff0eadd7c2b1d957eb029e6a349d170b7f508343846fbf6692",
+    "NotionAi/doc.md": "1b96d7245ecaf955903df0513e1231226c01f3ad8783ebb4eb82ec8c4ca2a73d",
+    "NotionAi/sub.md": "846dbd013443ccfbc79aad61b8fc1effbccb86aa2f84777a6f1b08aeaf6c3442",
+    "Open Source prompts/index.md": "fc9e8a5c9f8bafd9cb1e0edbd9426b53085d56e861eee63142a68a4800fcfd47",
+    "Open Source prompts/doc.md": "9fafb007b48247f5613a1354bcce40d09287220a26ad6b8d69949a1cb29cce6c",
+    "Open Source prompts/sub.md": "bbee636984991acab9105166f7413bb74c35ec6ab38ed62d97fc5d3f45d70a96",
+    "Open Source prompts/Bolt/index.md": "2a056d79f31034dc416dd0d22de35bf251f0eeb0d3fc9e534815b01395544104",
+    "Open Source prompts/Bolt/doc.md": "7da9441749cdf94b0efe6554abac2d1ece6fdf91903a5eee60ffb865a3de3190",
+    "Open Source prompts/Bolt/sub.md": "3dde9bd766bbdf33b91429c2c67cd13ee4892b834da358d2db069ee3b3449b69",
+    "Open Source prompts/Cline/index.md": "9fdecaddc106d34bd30bd474ddad3e0294b7c0d1f35045b8144e54752d6468f9",
+    "Open Source prompts/Cline/doc.md": "ad2093373519d56c02b281da7f21a6f27bbf98ce7e3a7fdf3cd17aba9c23de8a",
+    "Open Source prompts/Cline/sub.md": "b88846fff1b628cbf0eacfbbc5fe1cf38620a184e85dca98a778d11eff173ae6",
+    "Open Source prompts/Codex CLI/index.md": "f3107be5af6b28e9cb0b1ad60e41842944ae0c132c781b2c4761fa07bec51d96",
+    "Open Source prompts/Codex CLI/doc.md": "ce8f187595c61eecb0e9e7fac352e0263e59b5e79ca857a3ee0d39c56fbf7308",
+    "Open Source prompts/Codex CLI/sub.md": "e6d816a8640428348ddee9e082e9d352e6f1758d154fca64b80e130797dce7ea",
+    "Open Source prompts/Gemini CLI/index.md": "4def0a728951facdfe36b85a0216764d78b89ed6bff2c2601c18e3f612d40ad6",
+    "Open Source prompts/Gemini CLI/doc.md": "00ae4a982473729cebb931bca08d8065ba6a5bac7db8b2b2c68a2bbfbacc209b",
+    "Open Source prompts/Gemini CLI/sub.md": "20beb927350f94f35de11f59aaaf7a64f14b897b2fae5889620c5b3ea7aa0d53",
+    "Open Source prompts/Lumo/index.md": "bf28f4490f6bc7c9db92129e369603f44ee8fb01ef4b68b047251c161a93a8c3",
+    "Open Source prompts/Lumo/doc.md": "990bb39dcf15a78fbeccffd2380a3ac49ff8b40c5047f2472a0ed9ef45e40c3e",
+    "Open Source prompts/Lumo/sub.md": "fd30982fabdccd9d18eaebbf10f0442021b34d9e47e3aabe63552c46fd5ee45b",
+    "Open Source prompts/RooCode/index.md": "77bb3a583a2e271b35f54cdc2c939abb54d3b5922b6b1293192cf920e8c2d68e",
+    "Open Source prompts/RooCode/doc.md": "2c9bfb3f2e17a74beba755311da7800a7e7d9f0ae2a064b812a95ee639267162",
+    "Open Source prompts/RooCode/sub.md": "5935c84d35f6e71294abac02cc7bb9e51e9d069c58a17a4cef9f53ee02348af1",
+    "Orchids.app/index.md": "aececc1ad28c9de210ebb8a4f31af57fd0fc6cde2e76bf009e8e4e85efd56b8c",
+    "Orchids.app/doc.md": "25f31d545f834e4a1d4ec34c98d483750cd64695456960de9b68324b76cdd00a",
+    "Orchids.app/sub.md": "09b0dd97d69cb084c0557f5dfad94c9db46a84e1e4bde8a2515d1852eb8241f1",
+    "Perplexity/index.md": "328b855c6052f534625999be9e0e5ab69ffc55c3d51397c62fc52a8ffa3983e6",
+    "Perplexity/doc.md": "adb21c707bf65f2da21a17f7f028b82395fa5d1f0dba73f5e151345bfa8f1c5d",
+    "Perplexity/sub.md": "094e10e5cc376d490cb95f737c9ce125f0db98ebed3e36e63aa8a34304271bcc",
+    "Poke/index.md": "6986036fcdc9d0429049f3ac005a98767013772fc14fe904d4759665f6536327",
+    "Poke/doc.md": "0836486bfc3e29ea7296b0aedb7257941236e79f3198f3bc54efa3e1538cfad6",
+    "Poke/sub.md": "80272ded0a2cacfec4754be371d3010a593e969784ab4975ba44a039e191d87b",
+    "Qoder/index.md": "dae3bb699a6fd83bdb97141813ce7585712dc514317406eb37bc997ea7e2182e",
+    "Qoder/doc.md": "681b505c9e48b97d06911312331fdb51315d4ae478a5335f92238ff0b890b63f",
+    "Qoder/sub.md": "1b3aff110324e559c95c074860f34c958947dae4188367a54bae041b5e906d4e",
+    "Replit/index.md": "4d560e1f365f589d7a360b9c5c4ad7a12eb7e1e5bb562257e72ed9e23e0dde08",
+    "Replit/doc.md": "510a0dea30a8c0b91769bf4d5b3ce71f2052acf89ed4ba407d5ac5ad12f2db41",
+    "Replit/sub.md": "1bc0b9828f4313fe02016c678e4796160f81f0340a9177eca8bcf2837f9e98f8",
+    "Same.dev/index.md": "c03d9b4ed76b36f276372d3c3702e7398672c3fd642080c7c86f77496ac86adb",
+    "Same.dev/doc.md": "3607d6bec4c06f116d15eefdf9c9408758874c0e80c71adac4675ba0600d41c5",
+    "Same.dev/sub.md": "71937c11b2fe347e9e25fbbecc8f786dac80d89c97de522cb5b514be8b8b83e8",
+    "Trae/index.md": "a123e3efc5216bc7a71d3e9c6f8282d73996d1e60bb49cfe5067b5c7405f8379",
+    "Trae/doc.md": "c75367fcff825681e3e7dba27b6c35351aef2e590429b27b49127c68c30ffdeb",
+    "Trae/sub.md": "17d3f49c21e293a367048e4b362396cc668fd3b18170805c1a81ed10a0712382",
+    "Traycer AI/index.md": "eb5a02cef140802cb45239b79dff9850db8b91e78fef89c402d2c411b41364f8",
+    "Traycer AI/doc.md": "3dd7cd8f88d7414f634f2c1b5accab31068ea4334b915bc242c4e3314311b524",
+    "Traycer AI/sub.md": "c608fa123e79c917db6fcd8f6dfe146880a2ed17f3c3b130e9009f8a207b6e39",
+    "VSCode Agent/index.md": "f31fef053a7fec49f4a973efe51d4aeb8248c0539f60e864d4544cec0db77b5d",
+    "VSCode Agent/doc.md": "b349c7b0f0aa998269ad25e503b28699d3d02058eecb0cd170b4ef8acf94b8ab",
+    "VSCode Agent/sub.md": "f7c311e3b61120892cad471542f410ea57662cd6c7af6f306629c6d78fe3c748",
+    "Warp.dev/index.md": "8bb9e956f625f840c26f6ba36fdad57fa53d9865415c5bda02c1fa0c434b12cb",
+    "Warp.dev/doc.md": "7fbb341718d0186746be4873a0e9d0e36ad84044fc4fd1fbb0c8efb2957dc7cf",
+    "Warp.dev/sub.md": "755c8630e345a260768b90f5617432544b9579692e4b8352d87bdb429c929297",
+    "Windsurf/index.md": "d0752158c77a7a077a93acfa578bfe514fffd3c1a187fd1b7cd32166f4cb5d93",
+    "Windsurf/doc.md": "1a31ab9c60d7a52ca472d653b35d6717294b2a6fe29031a85bda396c8fd42306",
+    "Windsurf/sub.md": "666ea721b008a041d0b5ba65786136d81f8b7231e175d24524324efada253ccc",
+    "Xcode/index.md": "753652a1cbe6fe0b669ca57803dd70573e6d0f52d4dfdbaedc97d3a1bb435477",
+    "Xcode/doc.md": "05452ed874657fa6e24167d5d6855bd7d15007183a02d8e948e3aa0f8a370b17",
+    "Xcode/sub.md": "bd51a93c93be26a1563dd60b1cbee80f1785bb38a16f389b9852b2728e0ddb45",
+    "Z.ai Code/index.md": "8d6f56ab7d1a38d90e49237c3dfaaab965d4a85dac68c3ce999a6766c888f4ce",
+    "Z.ai Code/doc.md": "6ff5e4cc8dadc19b829651f213622269aa5d7059b783c0f7b115e5ce1c7c837a",
+    "Z.ai Code/sub.md": "edc245b3c6124c5dc6dba5f2da84e19c42cf9f49cfc5ed6196e0e8b377a1bafb",
+    "assets/index.md": "9f8f348446652ed2ed5f4b4d9e4af788e9880e1a4aa0c4f4386cc5a87462196b",
+    "assets/doc.md": "24f527444cffc2d7f6b46ef26e4c3b5c63fca414c76a96d3078da3bb3971da52",
+    "assets/sub.md": "0fab8cd85e4e3366fb3662d3fef4c756737c3b09f45507e1d9103b5cb54f28d6",
+    "dia/index.md": "4dc7dd83953e1a40a56c54071d9528682fa8fa1145d395029e64e394ff6771c6",
+    "dia/doc.md": "0805c02c3a471bcd14f73ae9f3eba051e583e8f929d1f2dfcd52e2231ddbef51",
+    "dia/sub.md": "45a723f3c06bf013ae501ea295e248e39a413cc054d5a2478942b7f330ef3e5c",
+    "v0 Prompts and Tools/index.md": "a80288362fe645a5740e060793a875406090c2c388735f18c15ad3fe42aa39f6",
+    "v0 Prompts and Tools/doc.md": "1f43d275f0ced6de9e6b804d54ea2364eb5448bbb1936a45bd51bd040ac66576",
+    "v0 Prompts and Tools/sub.md": "abc468a74977c3eb2c3d7ed3c45c82d2fa2e959866934b0a6da434eb17b7a0c3",
+    "keywords.md": "cb7ac0d515ec4cccf1d7b3f7ee1525b6c3b94e0ca394f1c8dcaf096c5de0939b",
+    "comprehensive_book.md": "865fb813e6c488b2841a69fed1bb6f9a467ba09dbe379d259851a24b335efa30",
+    "verification_report.md": "a7970c3618feff05f74e30c5246bd2da54999250b184802fc26408d25a19f2bd",
+    "README.md": "1200188c79a315dabfc4e35cfba7f0485dcf39ad35c47681c7e419cf4c1fe454"
+  }
+}
